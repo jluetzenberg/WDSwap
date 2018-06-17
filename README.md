@@ -17,8 +17,8 @@ In addition to the Desktop Swapper buttons, there is one additional 'gripper' bu
 WDSwap does not appear in the taskbar as a typical application. Instead it lives in the Notification section of your taskbar. You can right click on the icon in your notification area to access the same controls available from the gripper button.
 
 # Requirements
-Windows 10    |    _tested on builds 1709 and 1803_
-.NET Framework 4.6.1
+  - Windows 10    |    _tested on builds 1709 and 1803_
+  - .NET Framework 4.6.1
 
 # Graphic Buttons
 <img src="https://i.imgur.com/ZQ0Q9yb.png" alt="Example of Graphic Buttons" align="right" width="400px">
