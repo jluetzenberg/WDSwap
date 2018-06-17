@@ -16,6 +16,10 @@ In addition to the Desktop Swapper buttons, there is one additional 'gripper' bu
 <img src="https://i.imgur.com/pNYmQ9Z.png" alt="Example of Graphic Buttons" align="right" width="400px">
 WDSwap does not appear in the taskbar as a typical application. Instead it lives in the Notification section of your taskbar. You can right click on the icon in your notification area to access the same controls available from the gripper button.
 
+# Requirements
+Windows 10    |    _tested on builds 1709 and 1803_
+.NET Framework 4.6.1
+
 # Graphic Buttons
 <img src="https://i.imgur.com/ZQ0Q9yb.png" alt="Example of Graphic Buttons" align="right" width="400px">
 A feature that is still in development is the Graphic buttons feature (to enable this feature, in the config section 'Buttons', change the 'ButtonType' setting to 'DisplayGraphic'). When this feature is enabled, instead of displaying the names you have configured on the buttons the application will get a lit of running processes and generate an image that represents your virtual desktops. This is a convinient feature if the role of your virtual desktops change frequently but you'd like to have some idea of what is running on them.
